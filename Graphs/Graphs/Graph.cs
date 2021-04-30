@@ -20,7 +20,7 @@ namespace Graphs
                 }
                 else
                 {
-                    return Remove(graph, order, vertex + 1, 0, 0);
+                    return RemoveEdgesFromGraphAndCheck(graph, order, vertex + 1, 0, 0);
                 }
             }
             if (graph.GetVertecies() - iteration < order - amount)

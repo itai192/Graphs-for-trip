@@ -5,3 +5,10 @@ C:\Users\itail\source\repos\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReferen
 C:\Users\itail\source\repos\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
 C:\Users\itail\source\repos\Graphs\Graphs\obj\Debug\Graphs.exe
 C:\Users\itail\source\repos\Graphs\Graphs\obj\Debug\Graphs.pdb
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\obj\Debug\Graphs.pdb
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\itail\Documents\GitHub\Graphs-for-trip\Graphs\Graphs\bin\Debug\Graphs.pdb

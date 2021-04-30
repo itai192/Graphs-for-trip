@@ -10,7 +10,7 @@ namespace Graphs
     {
         static void Main(string[] args)
         {
-            int i = 5;
+            int i = 7;
             while (!Graph.CheckAllGraphsOfOrder(i, 3))
             {
                 Console.WriteLine(i);
